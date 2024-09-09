@@ -1,0 +1,50 @@
+.top-picks {
+  position: relative;
+  padding: 50px;
+  background: #6e10c7;
+  color: white;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.top-picks__header {
+  border-left: solid 5px #610eaf;
+  padding-left: 20px;
+}
+.top-picks__title {
+  margin: 0;
+  font-family: arial;
+}
+.top-picks__desc {
+  opacity: 0.7;
+}
+.top-picks__wrapper {
+  display: flex;
+  margin: 0 -5px;
+}
+
+.card {
+  padding: 5px;
+}
+.card__btn {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+  background: #881ded;
+  color: #5caf0e;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.card__btn:hover {
+  background: #a14cf1;
+}
+
+body {
+  background: #610eaf;
+}/*# sourceMappingURL=style.css.map */
